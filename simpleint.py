@@ -5,7 +5,7 @@ def simpleInt(pr, intr, time):
 
 if __name__=="__main__":
     p = int(sys.argv[1])
-    t = int(sys.argv[2])
-    i = int(sys.argv[3])
+    i = int(sys.argv[2])
+    t = int(sys.argv[3])
 
     print("simple Intrest:",simpleInt)
